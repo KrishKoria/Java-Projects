@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankManagementSystem/BankManagementSystem.iml" filepath="$PROJECT_DIR$/BankManagementSystem/BankManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Complement/Complement.iml" filepath="$PROJECT_DIR$/Complement/Complement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FCFS/FCFS.iml" filepath="$PROJECT_DIR$/FCFS/FCFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File Handling 1/File Handling.iml" filepath="$PROJECT_DIR$/File Handling 1/File Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File Handling 2/File Handling 2.iml" filepath="$PROJECT_DIR$/File Handling 2/File Handling 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/HashSet/HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Projects.iml" filepath="$PROJECT_DIR$/.idea/Java Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LJF/LJF.iml" filepath="$PROJECT_DIR$/LJF/LJF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LRTF/LRTF.iml" filepath="$PROJECT_DIR$/LRTF/LRTF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators Example/Operators Example.iml" filepath="$PROJECT_DIR$/Operators Example/Operators Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeNumbers/PrimeNumbers.iml" filepath="$PROJECT_DIR$/PrimeNumbers/PrimeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriorityQueueNP/PriorityQueueNP.iml" filepath="$PROJECT_DIR$/PriorityQueueNP/PriorityQueueNP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriorityQueueP/PriorityQueueP.iml" filepath="$PROJECT_DIR$/PriorityQueueP/PriorityQueueP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Example/Recursion Example.iml" filepath="$PROJECT_DIR$/Recursion Example/Recursion Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Round Robin/Round Robin.iml" filepath="$PROJECT_DIR$/Round Robin/Round Robin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SJF/SJF.iml" filepath="$PROJECT_DIR$/SJF/SJF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRTF/SRTF.iml" filepath="$PROJECT_DIR$/SRTF/SRTF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Socket Programming/Socket Programming.iml" filepath="$PROJECT_DIR$/Socket Programming/Socket Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+    </modules>
+  </component>
+</project>
